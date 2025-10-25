@@ -15,10 +15,11 @@ Se parte del análisis de la normativa y de los requisitos de gestión para defi
 
 ## 🧩 Estructura del repositorio
 
-📂 malaga-municipal-db/
-┣ 📜 modelo_ER.pdf # Diagrama E-R y descripción de entidades
-┣ 📜 Creacion_tablas_inserciones.sql # Script SQL con creación e inserción de datos
-┗ 📘 README.md # Documentación del proyecto
+    📂 malaga-municipal-db/
+     ┣ 📜 modelo_ER.pdf                      # Diagrama E-R y descripción de entidades
+     ┣ 📜 Creacion_tablas_inserciones.sql    # Script SQL con creación e inserción de datos
+     ┗ 📘 README.md                          # Documentación del proyecto
+
 ---
 
 ## 🧠 Modelo Entidad–Relación
